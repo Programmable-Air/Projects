@@ -6,6 +6,6 @@
 
 Gilad used Programmable-Air to make a fast linear actuator.
 
-![Digital Apple Bobbing](https://github.com/Programmable-Air/Projects/blob/master/media/digital-apple-bobbing.jpg)]
+![Digital Apple Bobbing](https://github.com/Programmable-Air/Projects/blob/master/media/digital-apple-bobbing.jpg)
 
 Shiyu and Luming used Programmable-Air to detect if someone is holding their breath or not.
