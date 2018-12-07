@@ -17,6 +17,6 @@ In Digital Apple Bobbing - [Shiyu](https://medium.com/shiyu-chen) and [Luming](h
 
 ### Breath Mirror by Wenjing
 
-In [Breath Mirror](https://jingdezign.wordpress.com/2018/12/05/research-on-breathing-for-project3-breathing-cave/) [Wenjing](https://jingdezign.wordpress.com) uses Programmable-Air to make a balloon mimic your breathing.
+In [Breath Mirror](https://jingdezign.wordpress.com/2018/12/05/research-on-breathing-for-project3-breathing-cave/) - [Wenjing](https://jingdezign.wordpress.com) uses Programmable-Air to make a balloon mimic your breathing.
 
 [![Breath Mirror](https://github.com/Programmable-Air/Projects/blob/master/media/breath-mirror.png)](https://jingdezign.wordpress.com/2018/12/05/research-on-breathing-for-project3-breathing-cave/)
