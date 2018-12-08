@@ -4,7 +4,7 @@
 
 ### Popcorn Bucket by Gilad Dor
 
-In [Popcorn Bucket](https://www.giladdor.com/itpblog/2018/10/24/physical-computing-midterm-popcorn-bucket) - [Gilad](https://www.giladdor.com) uses Programmable-Air to make a fast linear actuator.
+In [Popcorn Bucket](https://www.giladdor.com/itpblog/2018/10/24/physical-computing-midterm-popcorn-bucket) - [Gilad](https://www.giladdor.com) uses Programmable-Air to make a fast linear actuator using a syringe.
 
 [![Popcorn Bucket by Gilad Dor](https://github.com/Programmable-Air/Projects/blob/master/media/popcorn-bucket.jpg)](https://www.giladdor.com/itpblog/2018/10/24/physical-computing-midterm-popcorn-bucket)
 
