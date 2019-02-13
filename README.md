@@ -4,7 +4,8 @@
 
 ### Foxy Levelace by Kimberly Lin
 
-In [Foxy Lovelace](https://www.kimberly-y-lin.com/foxy-lovelace) - [Kim](https://www.kimberly-y-lin.com/) made a cyborg Femme fatale who speculates whether sex appeal can exist outside of a human body by delivering an ASMR experience of blowing a bubble out of her artificial lips. 
+In [Foxy Lovelace](https://www.kimberly-y-lin.com/foxy-lovelace) - [Kim](https://www.kimberly-y-lin.com/) made a cyborg Femme fatale who speculates whether sex appeal can exist outside of a human body by delivering an ASMR experience of blowing a bubble out of her artificial lips.
+
 [![Foxy Lovelace by Kimberly Lin](https://github.com/Programmable-Air/Projects/blob/master/media/foxy-lovelace.jpg)](https://www.kimberly-y-lin.com/foxy-lovelace)
 
 ### Popcorn Bucket by Gilad Dor
