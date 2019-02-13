@@ -2,6 +2,11 @@
 
 ## A curated list of cool projects powered by Programmable-Air.
 
+### Foxy Levelace by Kimberly Lin
+
+In [Foxy Lovelace](https://www.kimberly-y-lin.com/foxy-lovelace) - [Kim](https://www.kimberly-y-lin.com/) made a cyborg Femme fatale who speculates whether sex appeal can exist outside of a human body by delivering an ASMR experience of blowing a bubble out of her artificial lips. 
+[![Foxy Lovelace by Kimberly Lin](https://github.com/Programmable-Air/Projects/blob/master/media/FoxyLovelace.jpg)](https://www.kimberly-y-lin.com/foxy-lovelace)
+
 ### Popcorn Bucket by Gilad Dor
 
 In [Popcorn Bucket](https://www.giladdor.com/itpblog/2018/10/24/physical-computing-midterm-popcorn-bucket) - [Gilad](https://www.giladdor.com) uses Programmable-Air to make a fast linear actuator using a syringe.
